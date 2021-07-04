@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PeKaStLa
 - 👀 I’m interested in nearly everything.
-- 🌱 I’m currently learning python and TensorFlow.
+- 🌱 I’m currently learning Python, TensorFlow and Svelte & JavaScript.
 - 💞️ I’m looking to collaborate on python projects.
 - 📫 How to reach me: 14peterstadler@gmail.com
 
