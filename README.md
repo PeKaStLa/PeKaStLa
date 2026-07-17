@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PeKaStLa
 - 👀 I’m interested in nearly everything.
-- 🌱 I’m currently learning Python and Svelte & JavaScript.
-- 💞️ I’m looking to collaborate on everythin projects.
+- 🌱 I’m currently learning Svelte.
+- 💞️ I’m looking to collaborate on everything.
 - 📫 How to reach me: 14peterstadler@gmail.com
 
 <!---
